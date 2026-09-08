@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NafeesMadni&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafeesMadni&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-41fmmtrmc-dev-nafees.vercel.app/api?username=NafeesMadni&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-41fmmtrmc-dev-nafees.vercel.app/api/top-langs/?username=NafeesMadni&layout=compact&hide_border=true" />
 </p>
 
 ---
